@@ -1,0 +1,14 @@
+{
+    "name": "alqudiry/lara-protect-id",
+    "description": "Implement luhn algorithm with laravel model",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Abdullah Alqudiry",
+            "email": "abdullah.alqudiry@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
