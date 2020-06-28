@@ -10,5 +10,17 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Alqudiry\\LaraProtectId\\LaraProtectIdServiceProvider"
+            ]
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Alqudiry\\LaraProtectId\\": "src"
+        }
+    }
 }
