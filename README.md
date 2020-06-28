@@ -5,7 +5,7 @@ With this package you will able to add luhn algorithm works with laravel model i
 
 Note that: You can use [implicit model binding](https://laravel.com/docs/master/routing#implicit-binding) too. You don't have to do anything, it works automatically!
 
-Just typehint models and they are automatically resolved:
+Just typehint models and they are automatically resolved.
 
 #### Installation
 ```bash
